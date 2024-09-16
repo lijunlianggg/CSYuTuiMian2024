@@ -1,55 +1,55 @@
-# CSYuTuiMian2024
+# CSYuTuiMian2024号
 
->[!IMPORTANT] 
->1. 关于**2024年CS预推免通知公告**的汇总。欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？（本仓库将随各校通知的发布实时更新，具体形式可参见往年：[CSYuTuiMian2023](https://github.com/CS-BAOYAN/CSYuTuiMian2023)、[CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022)。
+>[!IMPORTANT]
+>1.关于**2024年CS预推免通知公告**的汇总。欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？（本仓库将随各校通知的发布实时更新，具体形式可参见往年：[CSYuTuiMian2023](https://github.com/CS-BAOYAN/CSYuTuiMian2023)、[CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022)。
 >
->2. 另附[CS-BAOYAN-2024](https://github.com/CS-BAOYAN/CS-BAOYAN-2024)，这是一份保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题
+>2.另附[CS-BAOYAN-2024](https://github.com/CS-BAOYAN/CS-BAOYAN-2024)，这是一份保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题
 >
->3. 关于2024年CS保研实验室/导师招生广告的汇总请查看[CSLabInfo2024](https://github.com/CS-BAOYAN/CSLabInfo2024)。该仓库仅提供招生信息发布渠道，不负责验证这些信息的完整性、准确性、时效性，不保证使用这些信息而获得的结果。对于因信息内容可能与实际情况不一致而导致的任何正面或负面影响，仓库管理者亦不承担任何责任或义务，请各位自行辨别。
->4. 关于一些CS/EE专业的学生，我们也建立了[CSBasicKnowledge](https://github.com/CS-BAOYAN/CSBasicKnowledge)，这是一个记录一些基础知识的仓库，欢迎大家pr & star，将你觉得有用的知识pr上来，造福学弟学妹。
->5. **本仓库仅提供预推免信息发布渠道，不负责验证这些信息的完整性、准确性、时效性，不保证使用这些信息而获得的结果。对于因信息内容可能与实际情况不一致而导致的任何正面或负面影响，仓库管理者亦不承担任何责任或义务，请各位自行辨别。**
+>3.关于2024年CS保研实验室/导师招生广告的汇总请查看[CSLabInfo2024](https://github.com/CS-BAOYAN/CSLabInfo2024)。该仓库仅提供招生信息发布渠道，不负责验证这些信息的完整性、准确性、时效性，不保证使用这些信息而获得的结果。对于因信息内容可能与实际情况不一致而导致的任何正面或负面影响，仓库管理者亦不承担任何责任或义务，请各位自行辨别。
+>4.关于一些CS/EE专业的学生，我们也建立了[CSBasicKnowledge](https://github.com/CS-BAOYAN/CSBasicKnowledge)，这是一个记录一些基础知识的仓库，欢迎大家pr & star，将你觉得有用的知识pr上来，造福学弟学妹。
+>5.**本仓库仅提供预推免信息发布渠道，不负责验证这些信息的完整性、准确性、时效性，不保证使用这些信息而获得的结果。对于因信息内容可能与实际情况不一致而导致的任何正面或负面影响，仓库管理者亦不承担任何责任或义务，请各位自行辨别。**
 >
 >预祝大家预推免成功上岸！都有喜欢的offer！
 
-## 清华大学
+##清华大学
 
-> [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm) | [清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
-> 
-> [清华大学2025年接收优秀应届本科毕业生免试攻读研究生报名通知(2024年8月23日12:00开放，2024年9月2日12:00关闭)](https://yz.tsinghua.edu.cn/info/1008/2796.htm)
+>[清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm)|[清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
 >
-> [清华大学2025年各院系博士生招生简章](https://yz.tsinghua.edu.cn/info/1024/2809.htm)
+>[清华大学2025年接收优秀应届本科毕业生免试攻读研究生报名通知(2024年8月23日12:00开放，2024年9月2日12:00关闭)](https://yz.tsinghua.edu.cn/info/1008/2796.htm)
 >
-> [清华大学深圳国际研究生院2025年硕士研究生招生专业目录（推免）](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95819/page.htm)
+>[清华大学2025年各院系博士生招生简章]( http://yz.tsinghua.edu.cn/info/1024/2809.htm)
+>
+>[ Tsinghua University Shenzhen International Graduate School 2025 Master&#39;s Degree Enrollment Major Catalog (Promotion and Exemption)](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95819/page.htm)
 
-<details>
+<细节>
 
-<summary> 已截止的 </summary>
+<总结> Expired</总结>
 
-~~【报名截止：9.2】[高等研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048)~~
+ ~~ [Application deadline: 9.2][ College of Advanced Research 2025 Doctoral Admission Brochure](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048) ~~
 
-> 清华大学高等研究院只招收直博生，包含物理学(含天体物理）、网络空间安全、计算机科学与技术三个专业。
+> The Institute of Advanced Research of Tsinghua University only enrolls direct doctoral students, including physics (including astrophysics), cyberspace security, and computer science and technology.
 
-~~【报名截止：9.2】[软件学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)~~
+ ~~ [Application deadline: 9.2][ Software College 2025 Doctoral Admission Brochure](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410) ~~
 
-~~【报名截止：9.2】[网络科学与网络空间研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cf455e69-13d6-41c7-9d1d-58a047a2c003?yxsdm=412)~~
+ ~~ [Application deadline: 9.2][ College of Network Science and Cyberspace 2025 Doctoral Admission Brochure](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cf455e69-13d6-41c7-9d1d-58a047a2c003?yxsdm=412) ~~
 
-~~【报名截止：9.2】[人工智能学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094)~~
+ ~~ [Application deadline: 9.2][ College of Artificial Intelligence 2025 Doctoral Admission Brochure](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094) ~~
 
-~~【报名截止：9.2】[电子工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)~~
+ ~~ [Application deadline: 9.2][ Doctoral Admission Brochure of Department of Electronic Engineering in 2025](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023) ~~
 
-~~【报名截止：9.2】[交叉信息研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047)~~
+ ~~ [Application deadline: 9.2][ Doctoral Admission Brochure of Cross Information Research Institute in 2025](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047) ~~
 
-~~【报名截止：9.2】[工业工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)~~
+ ~~ [Application deadline: 9.2][ Doctoral Admission Brochure of Industrial Engineering Department in 2025](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016) ~~
 
-~~【报名截止：9.2】[统计与数据科学系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b5486b29-e767-4b4e-acf8-1f7f44409cb0?yxsdm=088)~~
+ ~~ [Application deadline: 9.2][ Department of Statistics and Data Science 2025 Doctoral Admission Brochure](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b5486b29-e767-4b4e-acf8-1f7f44409cb0?yxsdm=088) ~~
 
-~~【报名截止：9.2】[深圳国际研究生院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)~~
+ ~~ [Application deadline: 9.2][ Shenzhen International Graduate School 2025 Doctoral Admission Brochure](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599) ~~
 
-~~【报名截止：9.2】[集成电路学院集成电路创新博士班](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1aceebfd-9c92-4d8a-aee9-9ec90a754f1a?yxsdm=026)~~
+ ~~ [Application deadline: 9.2][ Integrated Circuit Innovation Doctoral Program of Institute of Integrated Circuits](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1aceebfd-9c92-4d8a-aee9-9ec90a754f1a?yxsdm=026) ~~
 
-~~【报名截止：9.2】[计算机科学与技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024)~~
+ ~~ [Application deadline: 9.2][ Doctoral Admission Brochure of Department of Computer Science and Technology in 2025](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024) ~~
 
-~~【报名截止：9.2】[求真书院“数学与人工智能硕士项目”](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)~~
+ ~~ [Application deadline: 9.2][ Qiuzhen Academy&#39;s &#34;Master of Mathematics and Artificial Intelligence Project&#34;]( https://qzc.tsinghua.edu.cn/info/1162/6311.htm) ~~
 
 ~~【报名截止：9.2】[清华大学-鹏城实验室联合培养博士专项计划2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)~~
 
@@ -255,9 +255,7 @@
 
 ## 西北工业大学
 
->【报名截止：9.26】[西北工业大学2025年接收推荐免试研究生预报名的通知](https://yzb.nwpu.edu.cn/info/1174/9288.htm)
-
-【报名截止：9.22】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/7768.htm)
+ &#62;[Application deadline: 9.26] [Northwest Polytechnical University will receive the notice of pre registration of recommended test free graduate students in 2025]( http://yzb.nwpu.edu.cn/info/1174/9288.htm)
 
 ## 北京航空航天大学
 >[北航各学院接收推免攻读2025年研究生（含博士）相关通知](https://yzb.buaa.edu.cn/info/1036/3154.htm)
